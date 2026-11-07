@@ -5,7 +5,7 @@ Discord room, built on Switch for the Flip the Switch hackathon
 (Track 2: Personal or Creative Workflow).
 
 ## Demo
-[Video link]
+https://youtu.be/oYL_5WXkMYM
 
 ## What it does
 It plays like Dungeons & Dragons. Natasha is the game master: she narrates
