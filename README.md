@@ -42,6 +42,15 @@ Tag @natasha with your hero and action. Risky moves roll a d20 (1-5 bad, 6-14 pa
 Replies take 10-30 seconds on free models, and Natasha only follows
 rule-changing instructions from the room owner.
 
+## Future Plans
+
+This demo covers one scene, the Battle of Wakanda. The same setup can grow into a full story:
+
+- **Multiple scenes:** Natasha moves the story through key moments of the series, each with its own setting, goal and score.
+- **More characters:** every new villain or ally is its own agent with separate memory, such as Loki, Ultron or Hela.
+- **Story that carries over:** earlier choices in the room history change later scenes.
+- **Other stories:** swap the instructions to run Star Wars, Harry Potter or an original world.
+
 ## Credits
 Built with Switch by SandboxAQ. Avengers is a Marvel property; this
 is a fan project with no affiliation.
