@@ -1,6 +1,6 @@
-# Infinity War: a Multi-Agent Role-Play Game on Switch
+# Infinity War: a D&D-Style Multi-Agent Game on Switch
 
-An Avengers: Infinity War game run entirely by AI agents inside a
+A D&D-style Avengers: Infinity War game run entirely by AI agents inside a
 Discord room, built on Switch for the Flip the Switch hackathon
 (Track 2: Personal or Creative Workflow).
 
@@ -8,11 +8,12 @@ Discord room, built on Switch for the Flip the Switch hackathon
 [Video link]
 
 ## What it does
-Natasha is the narrator and game master. Thanos is a separate villain
-agent with his own personality and memory. Friends play the heroes.
-Natasha assigns roles, explains the scene, rolls dice, and tracks
-Mind Stone Safety. When the heroes attack or insult Thanos, Natasha
-hands off to him and he answers in his own voice.
+It plays like Dungeons & Dragons. Natasha is the game master: she narrates
+the scene, rolls dice for risky actions and tracks Mind Stone Safety.
+Thanos is a separate villain agent with his own personality and memory.
+Friends play the heroes, and Natasha assigns roles automatically. When the
+heroes attack or insult Thanos, Natasha hands off to him and he answers in
+his own voice.
 
 ## Why Switch
 - Each agent is its own entity with separate instructions, so Thanos
@@ -27,8 +28,14 @@ hands off to him and he answers in his own voice.
 | natasha | Narrator, dice, roles, score | agents/natasha.md |
 | thanos | Villain NPC | agents/thanos.md |
 
+### New to D&D?
+In D&D, players act as characters in a story while a game master describes
+the world and decides what happens, using dice for risky moves. The game
+master is the hardest role, so here AI agents take it over and your friends
+just play.
+
 ## How the game works
-Tag @natasha with your hero and action. Risky moves roll a d20 (1-5 bad, 6-14 partial, 15-20 success) and change Mind Stone Safety, which starts at 10. Hit 0 and Thanos wins.
+Tag @natasha with your hero and action, like in D&D. Risky moves roll a d20 (1-5 bad, 6-14 partial, 15-20 success) and change Mind Stone Safety, which starts at 10. Hit 0 and Thanos wins.
 
 ## Setup
 1. Install and run Switch (link to Switch docs).
