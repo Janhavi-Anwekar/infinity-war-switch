@@ -28,7 +28,7 @@ hands off to him and he answers in his own voice.
 | thanos | Villain NPC | agents/thanos.md |
 
 ## How the game works
-(Short rules: Mind Stone Safety 10/10, dice table, how to end.)
+Tag @natasha with your hero and action. Risky moves roll a d20 (1-5 bad, 6-14 partial, 15-20 success) and change Mind Stone Safety, which starts at 10. Hit 0 and Thanos wins.
 
 ## Setup
 1. Install and run Switch (link to Switch docs).
